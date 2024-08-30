@@ -1,0 +1,26 @@
+[
+  {
+    "model": "catalog.category",
+    "pk": 1,
+    "fields": {
+      "name": "Консервы",
+      "description": "Мясные, овощи, фрукты и тд."
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 2,
+    "fields": {
+      "name": "Мясо",
+      "description": "Птица, свинина, говядина"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 3,
+    "fields": {
+      "name": "Напитки",
+      "description": "Вода, соки, лимонады"
+    }
+  }
+]
